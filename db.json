@@ -1,0 +1,198 @@
+{
+  "goods": [
+    {
+      "id": "1",
+      "name": "Японские наручные часы Casio Vintage A158WA-1",
+      "imageUrl": "img/watch.png",
+      "price": 2000,
+      "marketplace": "WB",
+      "rating": 4.8,
+      "feedback": 506,
+      "link": "https://www.wildberries.ru/catalog/122656201/detail.aspx"
+    },
+    {
+      "id": "2",
+      "name": "AirPods Pro2",
+      "imageUrl": "img/watch.png",
+      "price": 20000,
+      "marketplace": "OZON",
+      "rating": 5,
+      "feedback": 1892,
+      "link": "some link"
+    },
+    {
+      "id": "3",
+      "name": "MacBook Air 13",
+      "imageUrl": "img/watch.png",
+      "price": 69999,
+      "marketplace": "YANDEX",
+      "rating": 4.8,
+      "feedback": 1488,
+      "link": "some link"
+    },
+    {
+      "id": "4",
+      "name": "Рубашка",
+      "imageUrl": "img/watch.png",
+      "price": 1230,
+      "marketplace": "OZON",
+      "rating": 3,
+      "feedback": 320,
+      "link": "some link"
+    },
+    {
+      "id": "5",
+      "name": "Японские наручные часы Casio Vintage A158WA-1",
+      "imageUrl": "img/watch.png",
+      "price": 4675,
+      "marketplace": "WB",
+      "rating": 4.8,
+      "feedback": 506,
+      "link": "some link"
+    },
+    {
+      "id": "6",
+      "name": "AirPods Pro2",
+      "imageUrl": "img/watch.png",
+      "price": 26500,
+      "marketplace": "OZON",
+      "rating": 5,
+      "feedback": 1892,
+      "link": "some link"
+    },
+    {
+      "id": "7",
+      "name": "MacBook Air 13",
+      "imageUrl": "img/watch.png",
+      "price": 99999,
+      "marketplace": "YANDEX",
+      "rating": 4.8,
+      "feedback": 1488,
+      "link": "some link"
+    },
+    {
+      "id": "10",
+      "name": "Подписка PS",
+      "imageUrl": "img/watch.png",
+      "price": 20000,
+      "marketplace": "OZON",
+      "rating": 5,
+      "feedback": 1892,
+      "link": "https://www.wildberries.ru/catalog/182243956/detail.aspx"
+    },
+    {
+      "id": "31",
+      "name": "MacBook Air 13",
+      "imageUrl": "img/watch.png",
+      "price": 69999,
+      "marketplace": "YANDEX",
+      "rating": 4.8,
+      "feedback": 1488,
+      "link": "some link"
+    },
+    {
+      "id": "41",
+      "name": "Рубашка",
+      "imageUrl": "img/watch.png",
+      "price": 1230,
+      "marketplace": "OZON",
+      "rating": 3,
+      "feedback": 320,
+      "link": "some link"
+    },
+    {
+      "id": "51",
+      "name": "Японские наручные часы Casio Vintage A158WA-1",
+      "imageUrl": "img/watch.png",
+      "price": 4675,
+      "marketplace": "WB",
+      "rating": 4.8,
+      "feedback": 506,
+      "link": "some link"
+    },
+    {
+      "id": "61",
+      "name": "AirPods Pro2",
+      "imageUrl": "img/watch.png",
+      "price": 26500,
+      "marketplace": "OZON",
+      "rating": 5,
+      "feedback": 1892,
+      "link": "some link"
+    },
+    {
+      "id": "71",
+      "name": "MacBook Air 13",
+      "imageUrl": "img/watch.png",
+      "price": 99999,
+      "marketplace": "YANDEX",
+      "rating": 4.8,
+      "feedback": 1488,
+      "link": "some link"
+    },
+    {
+      "id": "81",
+      "name": "Рубашка",
+      "imageUrl": "img/watch.png",
+      "price": 1480,
+      "marketplace": "OZON",
+      "rating": 3,
+      "feedback": 320,
+      "link": "some link"
+    }
+  ],
+  "users": [
+    {
+      "id": "0.10688491133373201",
+      "email": "example@mail.ru",
+      "password": "qwerty",
+      "name": "Ivan",
+      "surname": "Petrov",
+      "favorites": [
+        8,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "K8WVKdFwvSPcMNSSApqsr",
+      "email": "egor@gmail.com",
+      "password": "213",
+      "name": "Egor",
+      "surname": "Ершов",
+      "favorites": []
+    },
+    {
+      "id": "9Kr6wSfo7LX5y8XybJqrG",
+      "email": "213@gmail.com",
+      "password": "213",
+      "name": "321",
+      "surname": "13213",
+      "favorites": []
+    },
+    {
+      "id": "r30HL-iz9dw0-FJhi-8k-",
+      "email": "egor@gmail.com",
+      "password": "123",
+      "name": "egor",
+      "surname": "ershov",
+      "favorites": []
+    },
+    {
+      "id": "VjlW6rdwIc1_Tpwp7UUOL",
+      "email": "egorr@gmail.com",
+      "password": "123",
+      "name": "123",
+      "surname": "OUAF",
+      "favorites": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+.profile {
+    position: relative;
+
+    &__heading {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    &__data {
+        width: 973px;
+        height: 400px;
+        padding: 60px;
+        border-radius: 30px;
+        background-color: lightgray;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        flex-wrap: wrap;
+    }
+
+    &__label {
+        text-align: left;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+
+    &__input {
+        font-size: 18px;
+        padding: 20px 20px 20px 0;
+        width: 300px;
+        height: 40px;
+        background-color: lightgrey;
+        border: none;
+        border-bottom: 2px solid #969696;
+    }
+
+    &__button {
+        cursor: pointer;
+        font-size: 20px;
+        color: #fff;
+        font-weight: 700;
+        padding: 20px 40px;
+        width: 300px;
+        height: 60px;
+        background-color: #69AEFF;
+        border: none;
+        border-radius: 20px;
+
+        &:disabled {
+            opacity: 0.6;
+        }
+
+        &_red {
+            background-color: red;
+        }
+    }
+}
+
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    &_disabled {
+        display: none;
+    }
+
+    &__inner {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 20px;
+    }
+
+    &__group {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    &__button {
+        cursor: pointer;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #69AEFF;
+        border: none;
+        border-radius: 20px;
+    }
+}

@@ -1,0 +1,47 @@
+.login-layout {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    padding: 20px 50px;
+    border-radius: 30px;
+    gap: 20px;
+
+    h1 {
+        text-align: center;
+    }
+
+    &__field {
+        font-size: 16px;
+        padding: 20px;
+        width: 300px;
+        height: 40px;
+        border: 2px solid #69AEFF;
+        border-radius: 30px;
+    }
+
+    &__button {
+        cursor: pointer;
+        font-size: 16px;
+        color: #fff;
+        font-weight: 700;
+        padding: 10px 20px;
+        width: 300px;
+        height: 40px;
+        background-color: #69AEFF;
+        border: none;
+        border-radius: 20px;
+    }
+
+    &__link {
+        cursor: pointer;
+        text-align: center;
+        text-decoration: underline;
+    }
+}
